@@ -1,3 +1,4 @@
+<h4>
 
 PS D:\Soham\Coding_Files\Python\WebScraper> python main.py
 Product 1:
@@ -126,30 +127,4 @@ URL: https://www.scrapingcourse.com/ecommerce/product/artemis-running-short/
 Description: Discover smooth jogging and chic comfort each time you slip into the Artemis Running Short. A unique maritime-inspired design and oolor theme features a stretchy drawstring waist.
 • Black rouched shorts with mint waist.• Soft, lightweight construction.• LumaTech™ wicking technology.• Semi-fitted.
 ================================================================================
-PS D:\Soham\Coding_Files\Python\WebScraper> git init
-Initialized empty Git repository in D:/Soham/Coding_Files/Python/WebScraper/.git/
-PS D:\Soham\Coding_Files\Python\WebScraper> git add .
-PS D:\Soham\Coding_Files\Python\WebScraper> git commit -m "Webscraper"
-[master (root-commit) 589202b] Webscraper
- 1 file changed, 51 insertions(+)
- create mode 100644 main.py
-PS D:\Soham\Coding_Files\Python\WebScraper> git branch -M main
-PS D:\Soham\Coding_Files\Python\WebScraper> git remote add origin https://github.com/SohamJoshi25/webscraper-py.git
-PS D:\Soham\Coding_Files\Python\WebScraper> git push -u origin main
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 892 bytes | 297.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/SohamJoshi25/webscraper-py.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-PS D:\Soham\Coding_Files\Python\WebScraper>
-
-
-
-
-
-
-
+</h4>
