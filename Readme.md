@@ -1,3 +1,5 @@
+### Output
+
 ```
 PS D:\Soham\Coding_Files\Python\WebScraper> python main.py
 Product 1:
